@@ -1,0 +1,7 @@
+{
+    "require": {
+        "enqueue/enqueue": "^0.8",
+        "enqueue/simple-client": "^0.8",
+        "enqueue/amqp-bunny": "^0.8"
+    }
+}
